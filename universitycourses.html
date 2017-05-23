@@ -60,9 +60,6 @@
                 <li>
                     <a href="universitycourses.html">Details - University Courses</a>
                 </li>
-                <li>
-                    <a href="contact_page.html">Contact</a>
-                </li>
             </ul>
         </div>
         <!-- /#sidebar-wrapper -->
@@ -151,11 +148,11 @@
                     <br />
                     Supervisor: Professor Carsten Jentsch, Chair of Statistics, Dept. of Economics at University of Mannheim.
                     <br />
-                    Summary: My thesis was a combination of literature review about LASSO estimation (also for Vector Autoregressive Models) and applying it to a new setting. The novel section was, looking at binary time series models with many variables together and fitting with LASSO. Then we showed how this model can also be used to estimate probabilities in dynamic stochastic networks. Previous work mentioned about discrete time series models and connection to networks but not including many variables, which essentially blows up the parameters to be estimated. We took the high dimensional approach and fit the model using LASSSO. The dynamic network that we are looking differs to what "dynamic" means in many settings. In many dynamic networks the dynamics come in terms of nodes, so the number of nodes blow up over time. We looked at dynamics over edges. So at every time period, a particular edge between any pair of nodes are random and they changes over time. 
+                    Summary: My thesis was a combination of literature review about LASSO estimation (also for Vector Autoregressive Models) and applying it to a new setting. The novel section was, looking at binary time series models with many variables together and fitting with LASSO. Then we showed how this model can also be used to estimate probabilities in dynamic stochastic networks. Previous work mentioned about discrete time series models and connection to networks but not including many variables, which essentially blows up the parameters to be estimated. We took the high dimensional approach and fit the model using LASSO (Tibshirani, R. (1996). Regression shrinkage and selection via the lasso. J. Royal. Statist. Soc B., Vol. 58, No. 1, pages 267-288)). The dynamic network that we are looking differs to what "dynamic" may mean in many settings. In many dynamic networks the dynamics are meant to be how the number of nodes blow up over time. We looked at dynamics over edges. So at every time period, a particular edge between any pair of nodes are random and they changes over time. 
                     <p></p>
                     <br>
 
-                    Look at the following animation of dynamic networks of 10 nodes (45 possible edges). Note how the edges appear and disappear. The animation was created with some snapshots of networks over time, so each blink would give you a network in that particular time. 
+                    To have a rough idea about the dynamic networks pleas have a look at the following series of networks of 10 nodes (45 possible edges). Note how the edges appear and disappear. The animation was created with some snapshots of networks over time using the DGP we specified. So each each network would give the connections in that particular time. 
 
                     <br>
                     <center>
