@@ -1,18 +1,32 @@
-# Personal Website of Shaikh Tanvir Hossain
+Initio - Free, multipurpose html5 template
+=============
 
-## The site was created using an available bootstrapp theme from Start Bootstrap
+Initio is a fully featured html5 theme which will help you create a stylish personal or company site. 
+6 page layout templates should cover all your development needs. 
+Font Awesome 4, parallax effects and more are included (but can be turned off of course)
 
-## Some details:
 
-### Creator
+License
+-------
+**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+Bug tracker
+-----------
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Found a bug? Please create an issue here on GitHub! 
+https://github.com/pozh/Initio/issues
 
-### Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/gh-pages/LICENSE) license.
+
+Credits
+-------
+* Design and development: **Sergey Pozhilov** - http://pozhilov.com
+* More free templates by Sergey: http://gettemplate.com
+
+Photos used in the template
+-------
+* http://www.publicdomainpictures.net/view-image.php?image=19999
+* http://www.publicdomainpictures.net/view-image.php?image=6354
+* http://imcreator.com/free/business/macbook-computer
+* http://unsplush.com
